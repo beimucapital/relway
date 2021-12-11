@@ -60,11 +60,11 @@ fork 之后 ，在railway的dashboard，选择 new project
     "remote_addr": "xxx.herokuapp.com",
     "remote_port": 443,
     "password": [
-        "24b4b1e1-7a89-45f6-858c-242cf53b5bdb"
+        "efd9a998-38c4-48bb-a32d-e9bb61d36308"
     ],
     "websocket": {
         "enabled": true,
-        "path": "/24b4b1e1-7a89-45f6-858c-242cf53b5bdb-trojan",
+        "path": "/efd9a998-38c4-48bb-a32d-e9bb61d36308-trojan",
         "host": "xxx.herokuapp.com"
     }
 }
@@ -78,10 +78,10 @@ fork 之后 ，在railway的dashboard，选择 new project
 * 客户端下载：https://github.com/shadowsocks/shadowsocks-windows/releases/
 * 服务器地址: xxx.herokuapp.com
 * 端口: 443
-* 密码：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
+* 密码：efd9a998-38c4-48bb-a32d-e9bb61d36308
 * 加密：chacha20-ietf-poly1305
 * 插件程序：xray-plugin_windows_amd64.exe  //需将插件https://github.com/shadowsocks/xray-plugin/releases下载解压后放至shadowsocks同目录
-* 插件选项: tls;host=xxx.herokuapp.com;path=/24b4b1e1-7a89-45f6-858c-242cf53b5bdb-ss
+* 插件选项: tls;host=xxx.herokuapp.com;path=/efd9a998-38c4-48bb-a32d-e9bb61d36308-ss
 ```
 </details>
 
